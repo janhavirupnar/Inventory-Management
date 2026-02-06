@@ -6,10 +6,7 @@ The application supports complete CRUD operations, analytics dashboard, and thir
 🚀 Live Deployment Links
 
 Frontend (Live UI):
-👉 https://REPLACE_WITH_FRONTEND_URL
-
-Backend API:
-👉 https://REPLACE_WITH_BACKEND_URL
+👉 https://inventory-management-frontend-63dt.onrender.com/dashboard
 
 🛠️ Tech Stack
 
