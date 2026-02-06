@@ -6,7 +6,10 @@ The application supports complete CRUD operations, analytics dashboard, and thir
 🚀 Live Deployment Links
 
 Frontend (Live UI):
-👉 https://inventory-management-frontend-63dt.onrender.com/dashboard
+👉 https://inventory-management-frontend-63dt.onrender.com
+
+Backend API:
+👉 https://inventory-management-zydk.onrender.com
 
 🛠️ Tech Stack
 
@@ -66,7 +69,7 @@ inventory-management-app
 ⚙️ Backend Setup (Local)
 
 Clone the repository
-git clone https://github.com/janhavirupnar/Inventory-Management
+git clone https://github.com/KambleNehayuvraj/Inventory-management
 
 cd inventory-management-app/backend
 
@@ -186,17 +189,8 @@ Connected to Supabase PostgreSQL
 
 Frontend
 
-Deployed on Vercel / Render Static
+Deployed on Render 
 
-🧪 Testing Guide (Submission Requirement)
-
-Open live frontend link
-
-Perform Create → View → Update → Delete operations
-
-Open dashboard and verify analytics update
-
-Test third-party currency API
 
 📌 API Endpoints
 
@@ -211,18 +205,6 @@ GET /api/dashboard/
 
 Currency
 GET /api/currency/
-
-📹 Screen Recording
-
-A 3–5 minute screen recording demonstrates:
-
-Live application access
-
-Full CRUD functionality
-
-Dashboard & reports
-
-Third-party API working
 
 👩‍💻 Author
 

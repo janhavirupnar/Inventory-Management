@@ -1,10 +1,9 @@
 from django.contrib import admin
 from django.urls import path, include
-from inventory.views import home  # optional home view
+from django.http import JsonResponse
 
-# Optional: root endpoint to check if API is running
+# Root endpoint to check if API is running
 def home(request):
-    from django.http import JsonResponse
     return JsonResponse({"message": "Inventory Management API is running!"})
 
 urlpatterns = [
